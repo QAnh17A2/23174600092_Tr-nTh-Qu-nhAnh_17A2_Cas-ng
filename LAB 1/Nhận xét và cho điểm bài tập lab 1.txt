@@ -1,0 +1,35 @@
++ Mỗi bài tập thiếu ảnh kết quả chạy thử. Từ lab 2 thiếu kết quả sẽ bị trừ 2 điểm tổng bài
++ Code giống với code của bạn Trần Thị Thu Huyền?
+
++ Nhận xét và cho điểm từng bài:
+- Bài 1: đúng. Tuy nhiên em lưu ý khi đặt văn bản trong dấu 3 nháy, thì nội dung sẽ giữ nguyên toàn bộ. Hiện tại mỗi dòng thơ của em nếu chạy chương trình sẽ bị cách 1 dòng
+Điểm bài tập: 1.0
+
+- Bài 2: đúng. Tuy nhiên phần số lượng sách em nên để định dạng số nguyên
+Điểm bài tập: 1.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4: đúng
+Điểm bài tập: 1.0
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: đúng. Tuy nhiên phép trừ vecto em không cần lấy giá trị tuyệt đối của từng tọa độ
+Điểm bài tập: 1.0 
+
+- Bài 7: đúng
+Điểm bài tập: 1.0
+
+- Bài 8: dòng lệnh print của em đang sai, format của em nhập vào 2 giá trị x, z. Tuy nhiên trong chuỗi chỉ để 1 vị trí
+Điểm bài tập: 0.75
+
+- Bài 9: sai công thức tọa độ trung điểm của đoạn thẳng. Tọa độ trung điểm của đoạn thẳng MN sẽ là (xm + xn)/2 và (ym + yn)/2
+Điểm bài tập: 0.5
+
+- Bài 10: thiếu
+Điểm bài tập: 0
+
+Tổng điểm bài tập lab 1: 8.25
