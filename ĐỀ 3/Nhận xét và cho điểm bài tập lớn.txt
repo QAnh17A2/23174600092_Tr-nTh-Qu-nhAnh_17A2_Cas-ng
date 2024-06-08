@@ -1,0 +1,11 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: Trước khi tính tiền thưởng, nên kiểm tra xem có số trúng nào hay không. Nếu không có, không cần phải tính toán tiền thưởng.
+Điểm: 3.5
+
+File: Không xuất file csv
+Điểm: 0
+
+Có ảnh chạy code
+Điểm: 2.0
+
+Điểm bài tập lớn: 5.5
